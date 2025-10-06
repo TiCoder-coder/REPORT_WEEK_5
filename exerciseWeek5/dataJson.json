@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "GunDam",
+    "class": "DS01",
+    "mathGrade": 10,
+    "englishGrade": 7.5,
+    "machineLearningGrade": 9.0
+  },
+  {
+    "id": 2,
+    "class": "DS01",
+    "mathGrade": 7.0,
+    "englishGrade": 8.0,
+    "machineLearningGrade": 7.5
+  },
+  {
+    "id": 3,
+    "name": "Le Van C",
+    "class": "DS02",
+    "mathGrade": 9.0,
+    "englishGrade": 6.5,
+    "machineLearningGrade": 8.5
+  },
+  {
+    "id": 4,
+    "name": "Pham Thi D",
+    "class": "DS02",
+    "mathGrade": 6.5,
+    "englishGrade": 7.0
+  },
+  {
+    "id": 5,
+    "name": "Hoang Van E",
+    "class": "DS03",
+    "mathGrade": 8.0,
+    "englishGrade": 8.5,
+    "machineLearningGrade": 9.5
+  }
+]
+
